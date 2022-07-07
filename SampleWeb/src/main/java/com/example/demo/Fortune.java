@@ -7,8 +7,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class Fortune {
 	
 	//comment//comment//comment//comment//comment//comment
-//	comment//comment//comment//comment//comment//comment
-//	comment//comment//comment//comment//comment//comment
 
 	@RequestMapping("/fortune")
 	public String start() {
